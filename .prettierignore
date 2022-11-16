@@ -1,0 +1,6 @@
+node_modules/
+dist/
+
+# we use ts formatter for ts files
+*.ts
+*.tsx
