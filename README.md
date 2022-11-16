@@ -2,6 +2,8 @@
 
 Macro that converts functions to LLVM IR and builds it.
 
+This project is **incomplete**! It can only compile return statements and i32 values.
+
 ## Building and runnning
 
 You need to have llvm 14 installed on your system.
