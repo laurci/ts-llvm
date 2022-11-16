@@ -1,4 +1,4 @@
-# jsc
+# ts-llvm
 
 Macro that converts functions to LLVM IR and builds it.
 
