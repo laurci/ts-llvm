@@ -1,0 +1,6 @@
+size: small
+description: |
+  This experiment uses the features of my compiler to parse Typescript code and generate LLVM IR that gets then converted into a native binary. It is a very minimal implementation but can be expanded to support more of the Typescript AST and thus allow for more complex programs.
+tags:
+  - meta-programming
+  - LLVM
